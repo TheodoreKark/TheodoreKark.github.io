@@ -4,6 +4,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theodorekark&label=Profile%20views&color=0e75b6&style=flat" alt="theodorekark" /> </p>
 
-- 💬 Ask me about **Python , Power BI , Excel**
+# Hi there, I'm Theodore 👋
 
-- 📫 How to reach me **teokarkadelidis@gmail.com**
+I am a Data Analyst passionate about turning data into insights. With a background in Economics and hands-on experience in data science, I have worked on multiple projects using Python, SQL, and Machine Learning.
+
+🔭 I’m currently working on:
+- Building Seq2Seq models to predict energy prices for DEI
+- Creating a personal data science portfolio using GitHub Pages
+
+📫 Reach out to me:
+- LinkedIn: [TheodoreKark](https://www.linkedin.com/in/yourprofile/)
+- Email: your.email@example.com
+
+🚀 Tools I use:
+- Python, Pandas, NumPy
+- SQL, APIs, Web Scraping
+- Machine Learning, Data Visualization
