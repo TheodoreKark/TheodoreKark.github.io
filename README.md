@@ -14,7 +14,7 @@ I am a Data Analyst passionate about turning data into insights. With a backgrou
 
 📫 Reach out to me:
 - LinkedIn: [TheodoreKark](https://www.linkedin.com/in/theodore-karkadelidhs/)
-- Email: your.email@example.com
+- Email: teokarkadelidhs@gmail.com
 
 🚀 Tools I use:
 - Python, Pandas, NumPy
