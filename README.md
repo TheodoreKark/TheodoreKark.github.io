@@ -13,7 +13,7 @@ I am a Data Analyst passionate about turning data into insights. With a backgrou
 - Creating a personal data science portfolio using GitHub Pages
 
 📫 Reach out to me:
-- LinkedIn: [TheodoreKark]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/theodore-karkadelidhs/))
+- LinkedIn: [TheodoreKark](https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/theodore-karkadelidhs/))
 - Email: your.email@example.com
 
 🚀 Tools I use:
