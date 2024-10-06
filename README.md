@@ -9,7 +9,7 @@
 I am a Data Analyst passionate about turning data into insights. With a background in Economics and hands-on experience in data science, I have worked on multiple projects using Python, SQL, and Machine Learning.
 
 🔭 I’m currently working on:
-- Building Seq2Seq models to predict energy prices for DEI
+- Building Seq2Seq models to predict electricity prices 
 - Creating a personal data science portfolio using GitHub Pages
 
 📫 Reach out to me:
